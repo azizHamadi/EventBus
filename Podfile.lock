@@ -1,0 +1,20 @@
+PODS:
+  - BlueSocket (1.0.52)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - BlueSocket
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BlueSocket
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  BlueSocket: 1acd943acb07b55905291d608649fcfbf8cbd57d
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 76b156fc5b64e94fa816d86c6cce74ed088e4873
+
+COCOAPODS: 1.5.3
